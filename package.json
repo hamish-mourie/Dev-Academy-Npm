@@ -1,0 +1,22 @@
+{
+  "name": "dev-academy-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamish-mourie/Dev-Academy-Npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamish-mourie/Dev-Academy-Npm/issues"
+  },
+  "homepage": "https://github.com/hamish-mourie/Dev-Academy-Npm#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
